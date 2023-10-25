@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="go_to_second_activity">Go to second activity</string>
+    <string name="press_to_go_to_second_activity">Press to go to second activity</string>
+    <string name="enter_color_of_second_activity">Enter color of second activity</string>
+    <string name="look_at_new_background">Look at new background!</string>
+    <string name="back">Back</string>
+</resources>
